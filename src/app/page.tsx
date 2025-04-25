@@ -2,8 +2,8 @@ import Agechecker from "@/components/Projects/Agechecker";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Home | Nextjs Starter Template",
-  description: "Hpme page of Nextjs Starter Template",
+  title: "Home | Age-Checker",
+  description: "Home page ",
 };
 
 const page = () => {
